@@ -1,0 +1,187 @@
+import type { Dictionary } from "./en";
+
+export const pt: Dictionary = {
+  meta: {
+    home: {
+      title: "OAZA Mobile Mechanic LLC | Mecânico Móvel em Panama City Beach FL",
+      description:
+        "Serviços profissionais de mecânico móvel em Panama City Beach, Bay County e Walton County. Técnicos experientes prestando reparo automotivo conveniente no seu endereço.",
+    },
+    about: {
+      title: "Sobre Nós | OAZA Mobile Mechanic LLC",
+      description:
+        "Mais de 15 anos de experiência automotiva. Serviço de mecânico móvel honesto e conveniente em Panama City Beach, Bay County e Walton County.",
+    },
+    services: {
+      title: "Serviços | OAZA Mobile Mechanic LLC",
+      description:
+        "Manutenção geral, freios, troca de óleo, diagnóstico, baterias, suspensão e mais — reparo automotivo móvel em Bay County e Walton County.",
+    },
+    gallery: {
+      title: "Galeria | OAZA Mobile Mechanic LLC",
+      description: "Veja nossa equipe de mecânica móvel em ação em Bay County e Walton County, Flórida.",
+    },
+    reviews: {
+      title: "Avaliações | OAZA Mobile Mechanic LLC",
+      description: "Veja o que os clientes dizem sobre o serviço honesto e conveniente da OAZA Mobile Mechanic.",
+    },
+    contact: {
+      title: "Contato | OAZA Mobile Mechanic LLC",
+      description: "Ligue (850) 964-9612 ou agende online. Atendemos Bay County e Walton County, Flórida.",
+    },
+    booking: {
+      title: "Agendar | OAZA Mobile Mechanic LLC",
+      description: "Solicite um agendamento de mecânico móvel online em Panama City Beach, Bay County e Walton County.",
+    },
+  },
+  nav: {
+    home: "Início",
+    about: "Sobre",
+    services: "Serviços",
+    gallery: "Galeria",
+    reviews: "Avaliações",
+    contact: "Contato",
+    bookAppointment: "Agendar",
+    callNow: "Ligar Agora",
+  },
+  hero: {
+    badge: "avaliação · 15+ anos de experiência",
+    headlinePrefix: "Serviços Profissionais de Mecânico Móvel —",
+    headlineAccent: "Nós Vamos Até Você",
+    subheadline:
+      "Reparo e manutenção automotiva confiável no seu endereço em Bay County e Walton County, Flórida. A maioria dos reparos acontece onde seu carro está estacionado — sem precisar levar à oficina.",
+    ctaBook: "Agendar",
+    ctaCall: "Ligar Agora",
+    servingPrefix: "Atendemos",
+  },
+  stats: {
+    yearsExperience: "Anos de Experiência",
+    vehiclesServicedCareer: "Veículos Atendidos (Carreira)",
+    googleRating: "Avaliação Google",
+    open: "Aberto",
+    daysOpen: "Dias Abertos",
+    countiesServed: "Condados Atendidos",
+    careerNote: "Total de carreira ao longo da experiência profissional do técnico.",
+  },
+  aboutSnippet: {
+    heading: "Reparo de qualidade sem deixar seu veículo numa oficina",
+    text: "Com mais de 15 anos de experiência automotiva combinada, nossos técnicos trazem reparo honesto e conveniente direto à sua garagem, escritório ou onde você estiver — em Panama City Beach, Bay County e Walton County.",
+  },
+  homeServices: {
+    heading: "Nossos Serviços",
+    subheading: "Tudo que seu veículo precisa, no seu endereço.",
+    viewAll: "Ver todos os serviços →",
+  },
+  servicesPage: {
+    heading: "Nossos Serviços",
+    subheading: "Reparo móvel completo, levado até você em Panama City Beach, Bay County e Walton County.",
+  },
+  services: [
+    { title: "Manutenção Geral", description: "Manutenção de rotina para manter seu carro confiável, onde quer que esteja estacionado." },
+    { title: "Reparo de Freios", description: "Inspeções, reparos e substituições de freio feitos onde você está." },
+    { title: "Troca de Óleo", description: "Troca profissional de óleo e filtro no local, sem sala de espera." },
+    { title: "Serviços de Diagnóstico", description: "Leitura e limpeza de códigos de injeção eletrônica com equipamento adequado." },
+    { title: "Semi-eixos (CV)", description: "Inspeção e substituição de semi-eixos e componentes de transmissão." },
+    { title: "Juntas e Reparos de Motor", description: "Substituição de juntas e trabalhos de reparo relacionados ao motor." },
+    { title: "Serviços de Bateria", description: "Teste, carga e substituição de bateria — sem precisar de cabo auxiliar." },
+    { title: "Motor de Arranque e Alternador", description: "Diagnóstico e reparo do sistema elétrico, do motor de arranque ao sistema de carga." },
+    { title: "Suspensão", description: "Inspeções e reparos de suspensão para uma condução mais suave e segura." },
+    { title: "Outros Reparos", description: "Não encontrou o que precisa? Ligue — é bem provável que a gente resolva." },
+  ],
+  transport: {
+    badge: "Serviço opcional",
+    title: "Transporte de Veículo e Aluguel de Trailer",
+    description: "Prefere que busquemos seu veículo? Oferecemos transporte por trailer — solicite um orçamento conforme a distância. O aluguel do trailer também está disponível separadamente por $90/dia.",
+  },
+  whyChooseUs: {
+    heading: "Por Que Escolher a OAZA",
+    items: [
+      { title: "Serviço Móvel", description: "Vamos direto até sua casa, trabalho ou onde você estiver — a maioria dos reparos não exige visita a oficina." },
+      { title: "15+ Anos de Experiência", description: "Técnicos profissionais e altamente treinados em quem você pode confiar." },
+      { title: "Serviço Honesto", description: "Diagnóstico e preços transparentes. Sem venda de serviços desnecessários." },
+      { title: "Agendamento Conveniente", description: "Disponível todos os dias, das 7h às 21h — incluindo finais de semana." },
+      { title: "Especialistas Locais", description: "Atendendo com orgulho Bay County e Walton County, Flórida." },
+    ],
+  },
+  reviewsSection: {
+    heading: "O Que Nossos Clientes Dizem",
+    moreComing: "Mais avaliações em breve — esta seção é atualizada conforme novos clientes compartilham suas experiências.",
+  },
+  reviewsPage: {
+    heading: "Estrelas no Google",
+    subheading: "Feedback real de clientes reais em Bay County e Walton County.",
+    ctaHeadline: "Pronto para ser nossa próxima avaliação 5 estrelas?",
+  },
+  gallery: {
+    heading: "Galeria",
+    subheading: "Um pouco do nosso trabalho, ferramentas e serviço móvel em ação.",
+  },
+  about: {
+    heading: "Sobre a OAZA",
+    subheading: "Reparo automotivo de qualidade sem o transtorno de deixar seu veículo numa oficina.",
+    storyHeading: "Nossa história",
+    storyP1: "A OAZA Mobile Mechanic LLC foi criada com uma ideia simples: consertar seu carro não deveria significar perder um dia inteiro numa oficina. Nossos técnicos trazem mais de 15 anos de experiência automotiva direto até sua garagem, trabalho, ou onde você estiver — em qualquer lugar de Panama City Beach, Bay County e Walton County.",
+    storyP2: "Ao longo dessa carreira, nosso técnico principal já trabalhou em mais de 500 veículos — experiência que hoje atende diretamente Bay County e Walton County.",
+    storyP3: "Nosso técnico principal é formado em engenharia mecânica, e atende praticamente qualquer marca e modelo — de carros populares a veículos europeus e de luxo.",
+    teamPhotoNote: "Foto da equipe em breve — estamos atualizando esta página assim que recebermos fotos profissionais do proprietário.",
+    valuesHeading: "No que acreditamos",
+    values: [
+      { title: "Honestidade em primeiro lugar", text: "Diagnóstico e preços transparentes — explicamos o que está errado e o que é preciso para consertar, em termos simples." },
+      { title: "Experiência de verdade", text: "Mais de 15 anos de experiência prática em reparo automotivo, em quase toda marca e modelo." },
+      { title: "Feito para sua agenda", text: "Aberto todos os dias das 7h às 21h, porque problema de carro não espera horário comercial." },
+      { title: "Vamos até você", text: "Na maioria dos casos, sem deixar seu carro em oficina, sem malabarismo com carro alugado. Trabalhamos no seu endereço." },
+    ],
+  },
+  contact: {
+    heading: "Precisa de um mecânico? Nós vamos até você.",
+    subheading: "Ligue agora ou solicite um agendamento online — confirmamos dentro do horário comercial.",
+    callBtn: "Ligar",
+    textBtn: "Mensagem",
+    whatsappBtn: "WhatsApp",
+    bookBtn: "Agendar",
+    phoneLabel: "Telefone",
+    emailLabel: "E-mail",
+    hoursLabel: "Horário",
+    areaLabel: "Área de Atendimento",
+    mapNote: "[ mapa — adicionar Google Maps assim que o endereço/raio de atendimento for definido ]",
+  },
+  cta: {
+    defaultHeadline: "Precisa de um mecânico? Nós vamos até você.",
+    defaultSubtext: "Agendamentos no mesmo dia disponíveis em Bay County e Walton County.",
+  },
+  booking: {
+    heading: "Agende Seu Atendimento",
+    subheading: "Conte sobre seu veículo e confirmaremos seu agendamento por telefone.",
+    callPrefix: "Prefere falar agora? Ligue",
+    fields: {
+      name: "Nome completo",
+      phone: "Telefone",
+      email: "E-mail",
+      vehicleYear: "Ano do veículo",
+      vehicleMake: "Marca do veículo",
+      vehicleModel: "Modelo do veículo",
+      problem: "Descreva o problema",
+      problemPlaceholder: "O que está acontecendo com seu veículo?",
+      preferredDate: "Data preferida",
+      preferredTime: "Horário preferido",
+      address: "Seu endereço (onde vamos te encontrar)",
+      addressPlaceholder: "Rua, cidade, CEP",
+      notes: "Observações adicionais",
+      notesOptional: "(opcional)",
+      notesPlaceholder: "Mais alguma coisa que devemos saber?",
+    },
+    submit: "Solicitar Agendamento",
+    submitting: "Enviando...",
+    successHeading: "Solicitação recebida",
+    successText: "Vamos te ligar em breve para confirmar o agendamento. Precisa mais rápido?",
+    errorFallback: "Você também pode falar direto conosco pelo",
+    genericError: "Algo deu errado. Por favor, ligue para nós.",
+  },
+  footer: {
+    tagline: "Serviços profissionais de mecânico móvel em Bay County e Walton County, Flórida. Nós vamos até você.",
+    contactHeading: "Contato",
+    navigateHeading: "Navegar",
+    readyHeading: "Prontos quando você estiver",
+    rights: "Todos os direitos reservados.",
+  },
+};

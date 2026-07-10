@@ -1,0 +1,187 @@
+export const en = {
+  meta: {
+    home: {
+      title: "OAZA Mobile Mechanic LLC | Mobile Auto Repair in Panama City Beach FL",
+      description:
+        "Professional mobile mechanic services in Panama City Beach, Bay County and Walton County. Experienced technicians providing convenient auto repair at your location.",
+    },
+    about: {
+      title: "About Us | OAZA Mobile Mechanic LLC",
+      description:
+        "15+ years of automotive experience. Honest, convenient mobile mechanic service across Panama City Beach, Bay County and Walton County.",
+    },
+    services: {
+      title: "Services | OAZA Mobile Mechanic LLC",
+      description:
+        "General maintenance, brake repair, oil changes, diagnostics, batteries, suspension and more — mobile auto repair across Bay County and Walton County.",
+    },
+    gallery: {
+      title: "Gallery | OAZA Mobile Mechanic LLC",
+      description: "See our mobile mechanic team at work across Bay County and Walton County, Florida.",
+    },
+    reviews: {
+      title: "Reviews | OAZA Mobile Mechanic LLC",
+      description: "See what customers say about OAZA Mobile Mechanic's honest, convenient service.",
+    },
+    contact: {
+      title: "Contact | OAZA Mobile Mechanic LLC",
+      description: "Call (850) 964-9612 or book an appointment online. Serving Bay County and Walton County, Florida.",
+    },
+    booking: {
+      title: "Book Appointment | OAZA Mobile Mechanic LLC",
+      description: "Request a mobile mechanic appointment online in Panama City Beach, Bay County and Walton County.",
+    },
+  },
+  nav: {
+    home: "Home",
+    about: "About",
+    services: "Services",
+    gallery: "Gallery",
+    reviews: "Reviews",
+    contact: "Contact",
+    bookAppointment: "Book Appointment",
+    callNow: "Call Now",
+  },
+  hero: {
+    badge: "rated · 15+ years experience",
+    headlinePrefix: "Professional Mobile Mechanic Services —",
+    headlineAccent: "We Come To You",
+    subheadline:
+      "Reliable auto repair and maintenance at your location across Bay County and Walton County, Florida. Most repairs happen right where you park — no shop drop-off required.",
+    ctaBook: "Book Appointment",
+    ctaCall: "Call Now",
+    servingPrefix: "Serving",
+  },
+  stats: {
+    yearsExperience: "Years Experience",
+    vehiclesServicedCareer: "Vehicles Serviced (Career)",
+    googleRating: "Google Rating",
+    open: "Open",
+    daysOpen: "Days Open",
+    countiesServed: "Counties Served",
+    careerNote: "Career total across the technician's professional experience.",
+  },
+  aboutSnippet: {
+    heading: "Quality repair without leaving your vehicle at a shop",
+    text: "With 15+ years of combined automotive experience, our technicians bring honest, convenient repair directly to your driveway, office, or roadside — across Panama City Beach, Bay County, Walton County.",
+  },
+  homeServices: {
+    heading: "Our Services",
+    subheading: "Everything your vehicle needs, at your location.",
+    viewAll: "View all services →",
+  },
+  servicesPage: {
+    heading: "Our Services",
+    subheading: "Full-service mobile repair, brought to your location across Panama City Beach, Bay County, Walton County.",
+  },
+  services: [
+    { title: "General Maintenance", description: "Routine vehicle maintenance to keep your car reliable, wherever you're parked." },
+    { title: "Brake Repair", description: "Brake inspections, repairs, and replacements done at your curb." },
+    { title: "Oil Change", description: "Professional oil and filter changes on-site, no waiting room required." },
+    { title: "Diagnostic Services", description: "Reading and clearing check-engine codes with proper diagnostic equipment." },
+    { title: "CV Axles", description: "Inspection and replacement of CV axles and driveline components." },
+    { title: "Gaskets & Engine Repairs", description: "Gasket replacement and engine-related repair work." },
+    { title: "Battery Services", description: "Battery testing, charging, and replacement — no jump box required." },
+    { title: "Starter & Alternator", description: "Electrical system diagnosis and repair, from starters to charging systems." },
+    { title: "Suspension", description: "Suspension inspections and repairs for a smoother, safer ride." },
+    { title: "Other Repairs", description: "Don't see it listed? Call us — there's a good chance we handle it." },
+  ],
+  transport: {
+    badge: "Optional add-on",
+    title: "Vehicle Pickup & Trailer Rental",
+    description: "Prefer to have your vehicle picked up instead? We offer trailer transport — request a quote based on distance. Trailer rental is also available separately at $90/day.",
+  },
+  whyChooseUs: {
+    heading: "Why Choose OAZA",
+    items: [
+      { title: "Mobile Service", description: "We come directly to your home, office, or roadside — most repairs need no shop visit at all." },
+      { title: "15+ Years Experience", description: "Professional, highly trained technicians you can trust with your vehicle." },
+      { title: "Honest Service", description: "Transparent diagnostics and pricing. No upsells you don't need." },
+      { title: "Convenient Scheduling", description: "Available every day, 7 AM to 9 PM — including weekends." },
+      { title: "Local Experts", description: "Proudly serving Bay County and Walton County, Florida." },
+    ],
+  },
+  reviewsSection: {
+    heading: "What Customers Say",
+    moreComing: "More reviews on the way — this section updates as new customers share their experience.",
+  },
+  reviewsPage: {
+    heading: "Stars on Google",
+    subheading: "Real feedback from real customers across Bay County and Walton County.",
+    ctaHeadline: "Ready to become our next 5-star review?",
+  },
+  gallery: {
+    heading: "Gallery",
+    subheading: "A look at our work, our tools, and our mobile service in action.",
+  },
+  about: {
+    heading: "About OAZA",
+    subheading: "Quality automotive repair without the inconvenience of leaving your vehicle at a shop.",
+    storyHeading: "Our story",
+    storyP1: "OAZA Mobile Mechanic LLC was built on a simple idea: getting your car fixed shouldn't mean losing a day of your life at a repair shop. Our technicians bring over 15 years of combined automotive experience directly to your driveway, workplace, or roadside — anywhere in Panama City Beach, Bay County, Walton County.",
+    storyP2: "Over that career, our lead technician has worked on 500+ vehicles — experience that now serves Bay County and Walton County directly.",
+    storyP3: "Our lead technician holds a degree in mechanical engineering, and works on virtually every make and model — from daily drivers to European and luxury vehicles.",
+    teamPhotoNote: "Team photo coming soon — we're updating this page as we get professional photos from the owner.",
+    valuesHeading: "What we stand for",
+    values: [
+      { title: "Honesty first", text: "Transparent diagnostics and pricing — we explain what's wrong and what it takes to fix it, in plain terms." },
+      { title: "Real expertise", text: "15+ years of hands-on automotive repair experience across nearly every make and model." },
+      { title: "Built around your schedule", text: "Open every day from 7 AM to 9 PM, because car trouble doesn't wait for business hours." },
+      { title: "We come to you", text: "Most repairs mean no shop drop-off, no rental car juggling. We work at your location." },
+    ],
+  },
+  contact: {
+    heading: "Need a mechanic? We come to you.",
+    subheading: "Call now or request an appointment online — we'll confirm within business hours.",
+    callBtn: "Call",
+    textBtn: "Text",
+    whatsappBtn: "WhatsApp",
+    bookBtn: "Book Appointment",
+    phoneLabel: "Phone",
+    emailLabel: "Email",
+    hoursLabel: "Hours",
+    areaLabel: "Service Area",
+    mapNote: "[ map embed — add Google Maps once business address / service radius is finalized ]",
+  },
+  cta: {
+    defaultHeadline: "Need a mechanic? We come to you.",
+    defaultSubtext: "Same-day appointments available across Bay County and Walton County.",
+  },
+  booking: {
+    heading: "Book Your Appointment",
+    subheading: "Tell us about your vehicle and we'll confirm your appointment by phone.",
+    callPrefix: "Prefer to talk now? Call",
+    fields: {
+      name: "Full name",
+      phone: "Phone number",
+      email: "Email",
+      vehicleYear: "Vehicle year",
+      vehicleMake: "Vehicle make",
+      vehicleModel: "Vehicle model",
+      problem: "Describe the problem",
+      problemPlaceholder: "What's going on with your vehicle?",
+      preferredDate: "Preferred date",
+      preferredTime: "Preferred time",
+      address: "Your address (where we'll meet you)",
+      addressPlaceholder: "Street, city, ZIP",
+      notes: "Additional notes",
+      notesOptional: "(optional)",
+      notesPlaceholder: "Anything else we should know?",
+    },
+    submit: "Request Appointment",
+    submitting: "Sending...",
+    successHeading: "Request received",
+    successText: "We'll call you shortly to confirm your appointment. Need it faster?",
+    errorFallback: "You can also reach us directly at",
+    genericError: "Something went wrong. Please call us instead.",
+  },
+  footer: {
+    tagline: "Professional mobile mechanic services across Bay County and Walton County, Florida. We come to you.",
+    contactHeading: "Contact",
+    navigateHeading: "Navigate",
+    readyHeading: "Ready when you are",
+    rights: "All rights reserved.",
+  },
+} as const;
+
+export type Dictionary = typeof en;
