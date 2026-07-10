@@ -182,6 +182,6 @@ export const en = {
     readyHeading: "Ready when you are",
     rights: "All rights reserved.",
   },
-} as const;
+};
 
 export type Dictionary = typeof en;
